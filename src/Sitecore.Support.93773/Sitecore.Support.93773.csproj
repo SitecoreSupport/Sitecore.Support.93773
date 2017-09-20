@@ -62,9 +62,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Sitecore.Support.93773.dll" />
-    <Content Include="bin\Telerik.Web.UI.dll" />
-    <Content Include="bin\Telerik.Web.UI.Skins.dll" />
     <Content Include="bin\Telerik.Web.UI.xml" />
     <Content Include="sitecore\shell\Controls\Rich Text Editor\RichText Commands.js" />
   </ItemGroup>
